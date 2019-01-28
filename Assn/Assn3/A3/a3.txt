@@ -1,0 +1,14 @@
+Kristen Foong
+Assn 3
+CPSC 1160
+Exercise 2
+
+1. n will keep decrementing and will not stop as there's nothing to indicate when it should stop.
+
+2. 30 20 10
+
+Function f calls itself until the user enters a number that is not greater than 0, then it prints out in backwards order the numbers that the user had given.
+
+3. 10011
+
+Function g takes the user input x and checks to see if it is equal to 0 or 1, and if not, it calls itself but with x being halved. Once x/2 equals 0 or 1, it will print out x, and the previous calls will print out the remainder of the previous x if x was divided by 2, and the end result is the user input in binary code.
